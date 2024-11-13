@@ -12,8 +12,3 @@ The goal of this project is to enhance GPT models with the ability to ask clarif
 1. **Wikipedia Dataset**: A large set of text data from Wikipedia articles was used for initial training of the GPT-1 model.
 2. **User Prompt and Clarification Dataset**: For fine-tuning GPT-2, a dataset containing examples of user prompts that are unclear or ambiguous, along with appropriate clarification questions, was used.
 
-## Training Details
-- **GPT-1**: Initially trained on a large Wikipedia dataset to learn general language understanding.
-- **GPT-2**: Fine-tuned using the following methods:
-  - A dataset of unclear prompts paired with clarification questions (method a).
-  - Embedding-based validation methods (method b and c) to detect ambiguous prompts.
