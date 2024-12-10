@@ -1,0 +1,3541 @@
+[
+    {
+        "label": "unclear",
+        "prompt": "The dog barked at the man with the telescope.",
+        "response": "Is the man using the telescope, or is the man holding the telescope?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "He has a book and a pen.",
+        "response": "Which item is he holding or using?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "She walked to the bank.",
+        "response": "Are you referring to a financial institution or the side of a river?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The man saw the woman with binoculars.",
+        "response": "Did the man use the binoculars to see the woman, or did the woman have the binoculars?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "Can you pass the salt?",
+        "response": "Are you asking for salt to be passed to you or for something else?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "She is visiting her sister’s house.",
+        "response": "Is the sister’s house the one she lives in or the one she is staying at?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "They finished the project in record time.",
+        "response": "Which project are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The chef prepared the meal with care.",
+        "response": "Is 'care' referring to attention or a special ingredient?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The singer performed the song beautifully.",
+        "response": "Which song did the singer perform?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "I gave him a call last night.",
+        "response": "Which person are you referring to?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water?",
+        "response": "The boiling point of water is 100°C (212°F) at sea level."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the telephone?",
+        "response": "Alexander Graham Bell invented the telephone."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in guacamole?",
+        "response": "The main ingredient in guacamole is avocado."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many planets are there in the Solar System?",
+        "response": "There are 8 planets in the Solar System."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Brazil?",
+        "response": "The capital of Brazil is Brasília."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted the Mona Lisa?",
+        "response": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+        "label": "clear",
+        "prompt": "How long does it take to fly from New York to London?",
+        "response": "A direct flight from New York to London typically takes about 7-8 hours."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for water?",
+        "response": "The chemical symbol for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest ocean on Earth?",
+        "response": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+        "label": "clear",
+        "prompt": "When did the first moon landing occur?",
+        "response": "The first moon landing occurred on July 20, 1969."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The man walked into the room and started speaking.",
+        "response": "Was the speaking part related to the man walking into the room?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book on the table is old.",
+        "response": "Is the book on the table the one you’re referring to, or is it the table itself that is old?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The painting is beautiful.",
+        "response": "Which painting are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "She is going to watch the movie.",
+        "response": "Which movie are you talking about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "I met a girl at the park.",
+        "response": "Is this the girl you know or a random encounter?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The ball is in the court.",
+        "response": "Are you referring to a literal ball in a sports court, or is it a metaphor?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The students finished their homework.",
+        "response": "Which homework are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "Can you tell me about the cat?",
+        "response": "Which cat do you mean? Is it a pet, a stray, or something else?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play was interesting.",
+        "response": "Which play are you talking about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The man left his keys in the car.",
+        "response": "Whose keys are we talking about—his or someone else's?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the speed of light?",
+        "response": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered penicillin?",
+        "response": "Penicillin was discovered by Alexander Fleming."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the primary language spoken in Brazil?",
+        "response": "The primary language spoken in Brazil is Portuguese."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did World War II end?",
+        "response": "World War II ended in 1945."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the smallest prime number?",
+        "response": "The smallest prime number is 2."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many hours are in a day?",
+        "response": "There are 24 hours in a day."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for gold?",
+        "response": "The chemical symbol for gold is Au."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the name of the largest desert in the world?",
+        "response": "The largest desert in the world is the Antarctic Desert."
+    },
+    {
+        "label": "clear",
+        "prompt": "When was the Declaration of Independence signed?",
+        "response": "The Declaration of Independence was signed on July 4, 1776."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Australia?",
+        "response": "The capital of Australia is Canberra."
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "label": "unclear",
+        "prompt": "I visited the museum last weekend.",
+        "response": "Which museum did you visit?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The chef prepared the dish with a lot of love.",
+        "response": "Does 'love' refer to affection or a special ingredient?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "They walked down the street and waved.",
+        "response": "Who are 'they' and who did they wave at?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The box on the table is empty.",
+        "response": "Which box are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "I talked to John and Sarah.",
+        "response": "What was the topic of the conversation, and who was more involved?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "He wore his favorite shirt to the event.",
+        "response": "Which shirt is his favorite?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The kids are playing in the yard.",
+        "response": "Which yard are they playing in?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The movie was great.",
+        "response": "Which movie did you watch?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The bank was busy when I passed by.",
+        "response": "Was the bank crowded because of customers or employees?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The paper is on the desk.",
+        "response": "Which paper are you referring to?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for water?",
+        "response": "The formula for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many moons does Jupiter have?",
+        "response": "Jupiter has 95 known moons."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the speed of sound?",
+        "response": "The speed of sound in air is approximately 343 meters per second at 20°C."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Titanic sink?",
+        "response": "The Titanic sank in 1912."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many bones are in the adult human body?",
+        "response": "There are 206 bones in the adult human body."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the author of 'Pride and Prejudice'?",
+        "response": "The author of 'Pride and Prejudice' is Jane Austen."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in bread?",
+        "response": "The main ingredient in bread is flour."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of France?",
+        "response": "The capital of France is Paris."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest building in the world?",
+        "response": "The tallest building in the world is the Burj Khalifa in Dubai."
+    },
+    {
+        "label": "clear",
+        "prompt": "What planet is known as the 'Red Planet'?",
+        "response": "Mars is known as the 'Red Planet.'"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The light turned off by itself.",
+        "response": "Was the light turned off automatically, or was someone else involved?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "I found a wallet on the ground.",
+        "response": "Whose wallet did you find, and where exactly did you find it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "He loves playing guitar and singing.",
+        "response": "Does he play guitar while singing or separately?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The answer was right in front of us.",
+        "response": "What was the answer referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The dog chased the cat through the garden.",
+        "response": "Did the dog or the cat start the chase?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The sun was shining brightly.",
+        "response": "Was it a clear day or were there clouds?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "They made a great team.",
+        "response": "Who are 'they,' and what task did they accomplish together?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "He left the restaurant feeling satisfied.",
+        "response": "Was he satisfied with the food or the service?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The cat sat on the mat.",
+        "response": "What kind of mat are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "She prepared the dish for the event.",
+        "response": "Which event was the dish prepared for?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest planet in the Solar System?",
+        "response": "The largest planet in the Solar System is Jupiter."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who was the first president of the United States?",
+        "response": "The first president of the United States was George Washington."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many letters are in the English alphabet?",
+        "response": "There are 26 letters in the English alphabet."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical formula for methane?",
+        "response": "The chemical formula for methane is CH4."
+    },
+    {
+        "label": "clear",
+        "prompt": "What type of animal is a penguin?",
+        "response": "A penguin is a type of bird."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Spain?",
+        "response": "The capital of Spain is Madrid."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted 'Starry Night'?",
+        "response": "Vincent van Gogh painted 'Starry Night.'"
+    },
+    {
+        "label": "clear",
+        "prompt": "What year was the Declaration of Independence signed?",
+        "response": "The Declaration of Independence was signed in 1776."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many teeth does an adult human have?",
+        "response": "An adult human typically has 32 teeth."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the name of the longest river in the world?",
+        "response": "The longest river in the world is the Nile River."
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "label": "unclear",
+        "prompt": "The old man walked slowly down the road.",
+        "response": "Who is the old man, and why is he walking slowly?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The rain started falling as we left.",
+        "response": "Was the rain sudden or gradual?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "She smiled at the crowd.",
+        "response": "Was the smile directed at anyone specific?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The plant in the corner is thriving.",
+        "response": "Which plant are you talking about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The view from the mountain was breathtaking.",
+        "response": "What mountain are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "They argued for hours in the living room.",
+        "response": "Who are 'they,' and what were they arguing about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book was left on the kitchen table.",
+        "response": "Which book was it, and why was it left there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The project was completed successfully.",
+        "response": "What project are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "He couldn't believe what he heard.",
+        "response": "What did he hear that was so unbelievable?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The path led to a hidden clearing.",
+        "response": "What clearing are you talking about?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Italy?",
+        "response": "The capital of Italy is Rome."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many planets are in our Solar System?",
+        "response": "There are 8 planets in our Solar System."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for carbon dioxide?",
+        "response": "The formula for carbon dioxide is CO2."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest ocean on Earth?",
+        "response": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the author of 'The Great Gatsby'?",
+        "response": "The author of 'The Great Gatsby' is F. Scott Fitzgerald."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the speed of light?",
+        "response": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Berlin Wall fall?",
+        "response": "The Berlin Wall fell in 1989."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many sides does a pentagon have?",
+        "response": "A pentagon has 5 sides."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Canada?",
+        "response": "The capital of Canada is Ottawa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main gas in the Earth's atmosphere?",
+        "response": "The main gas in the Earth's atmosphere is nitrogen."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The cat jumped on the chair.",
+        "response": "Which cat are you talking about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The game started late.",
+        "response": "What game are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The team was disappointed after the match.",
+        "response": "What match did the team play, and why were they disappointed?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "I read an interesting article yesterday.",
+        "response": "What was the article about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The concert was sold out quickly.",
+        "response": "Which concert are you referring to?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The gift was a surprise.",
+        "response": "What was the gift, and who gave it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The man at the store was helpful.",
+        "response": "Who was the man, and how was he helpful?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The view from the window was amazing.",
+        "response": "What did the view look like?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The meal was delicious.",
+        "response": "What meal was it, and who prepared it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The weather changed suddenly.",
+        "response": "What kind of change did the weather undergo?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the distance from the Earth to the Sun?",
+        "response": "The average distance from the Earth to the Sun is approximately 149.6 million kilometers."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the light bulb?",
+        "response": "Thomas Edison is credited with inventing the light bulb."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the freezing point of water?",
+        "response": "The freezing point of water is 0°C (32°F)."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there?",
+        "response": "There are 7 continents."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for table salt?",
+        "response": "The formula for table salt is NaCl (sodium chloride)."
+    },
+    {
+        "label": "clear",
+        "prompt": "What language do people speak in Brazil?",
+        "response": "The official language of Brazil is Portuguese."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest tree in the world?",
+        "response": "The tallest tree in the world is a coast redwood (Sequoia sempervirens) named Hyperion."
+    },
+    {
+        "label": "clear",
+        "prompt": "What are the primary colors in painting?",
+        "response": "The primary colors in painting are red, blue, and yellow."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the process of photosynthesis?",
+        "response": "Photosynthesis is the process by which green plants convert sunlight, carbon dioxide, and water into glucose and oxygen."
+    },
+    {
+        "label": "clear",
+        "prompt": "What type of animal is a dolphin?",
+        "response": "A dolphin is a type of mammal."
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "label": "unclear",
+        "prompt": "The movie had a surprising twist at the end.",
+        "response": "What movie are you referring to, and what was the twist?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The painting was sold for a huge amount.",
+        "response": "Which painting was sold, and who bought it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The noise from the construction was constant.",
+        "response": "What kind of construction was it, and where did it take place?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The dog barked loudly when it saw the man.",
+        "response": "What kind of dog was it, and why did it bark?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The class was interesting but long.",
+        "response": "Which class was it, and what made it interesting?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The story had a touching ending.",
+        "response": "What story are you referring to, and why was it touching?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The temperature dropped suddenly in the evening.",
+        "response": "What was the temperature before it dropped, and why did it drop?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The teacher gave an unexpected assignment.",
+        "response": "What was the assignment about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The restaurant had a variety of dishes.",
+        "response": "Which restaurant was it, and what dishes did it serve?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The path to the village was muddy.",
+        "response": "Which village, and how muddy was the path?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the currency of Japan?",
+        "response": "The currency of Japan is the Japanese yen (JPY)."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many bones are in the adult human body?",
+        "response": "There are 206 bones in the adult human body."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted the Mona Lisa?",
+        "response": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Titanic sink?",
+        "response": "The Titanic sank in 1912."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for gold?",
+        "response": "The chemical symbol for gold is Au."
+    },
+    {
+        "label": "clear",
+        "prompt": "How long does it take for the Earth to orbit the Sun?",
+        "response": "It takes approximately 365.25 days for the Earth to orbit the Sun."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in guacamole?",
+        "response": "The main ingredient in guacamole is avocado."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who was the first president of the United States?",
+        "response": "The first president of the United States was George Washington."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest planet in our Solar System?",
+        "response": "The largest planet in our Solar System is Jupiter."
+    },
+    {
+        "label": "clear",
+        "prompt": "What type of animal is a penguin?",
+        "response": "A penguin is a bird."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lights were flashing in the distance.",
+        "response": "What kind of lights were they, and where were they?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The concert was incredible.",
+        "response": "Which concert was it, and what made it incredible?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The storm swept through the village.",
+        "response": "What kind of storm was it, and how did it affect the village?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The river was full of fish.",
+        "response": "Which river, and what types of fish were in it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The boat drifted to the shore.",
+        "response": "What kind of boat was it, and what caused it to drift?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The actor won an award for his role.",
+        "response": "Who is the actor, and what was the role?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The phone rang unexpectedly.",
+        "response": "Who called, and why was it unexpected?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The task was completed quickly.",
+        "response": "What task, and why was it completed quickly?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The flowers were blooming beautifully.",
+        "response": "Which flowers, and why were they blooming beautifully?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play was full of emotion.",
+        "response": "What play was it, and what emotion did it convey?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for water?",
+        "response": "The formula for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water?",
+        "response": "The boiling point of water is 100°C (212°F) at sea level."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote 'To Kill a Mockingbird'?",
+        "response": "Harper Lee wrote 'To Kill a Mockingbird.'"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of France?",
+        "response": "The capital of France is Paris."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many hearts does an octopus have?",
+        "response": "An octopus has three hearts."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the longest river in the world?",
+        "response": "The longest river in the world is the Nile River."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many players are there in a soccer team?",
+        "response": "There are 11 players in a soccer team."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main gas that makes up the Earth's atmosphere?",
+        "response": "The main gas in the Earth's atmosphere is nitrogen."
+    },
+    {
+        "label": "clear",
+        "prompt": "What animal is known as the King of the Jungle?",
+        "response": "The lion is known as the King of the Jungle."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the name of the world's largest desert?",
+        "response": "The largest desert in the world is the Sahara Desert."
+    },
+
+
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The hotel was beautiful, but the service was disappointing.",
+        "response": "Which hotel was it, and what service did you find disappointing?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The meeting ended without any clear resolution.",
+        "response": "What meeting was it, and what were the main points discussed?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The fireworks lit up the sky.",
+        "response": "Where were the fireworks happening, and what kind were they?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The musician played a familiar tune.",
+        "response": "Who was the musician, and what tune did they play?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The city was crowded with tourists.",
+        "response": "Which city was it, and what time of year?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The story had unexpected twists and turns.",
+        "response": "What story are you referring to, and what were the twists?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The dog ran across the field.",
+        "response": "What breed of dog, and why was it running?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The artist created something extraordinary.",
+        "response": "Who was the artist, and what did they create?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The temperature was uncomfortably high.",
+        "response": "Where was this, and what was the temperature?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The road was blocked due to an accident.",
+        "response": "Which road, and what kind of accident?"
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the telephone?",
+        "response": "Alexander Graham Bell invented the telephone."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for water?",
+        "response": "The chemical symbol for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there?",
+        "response": "There are seven continents."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Australia?",
+        "response": "The capital of Australia is Canberra."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered penicillin?",
+        "response": "Alexander Fleming discovered penicillin."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the smallest prime number?",
+        "response": "The smallest prime number is 2."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest building in the world?",
+        "response": "The tallest building in the world is the Burj Khalifa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in a Caesar salad?",
+        "response": "The main ingredient in a Caesar salad is romaine lettuce."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many planets are there in our Solar System?",
+        "response": "There are eight planets in our Solar System."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for carbon dioxide?",
+        "response": "The formula for carbon dioxide is CO2."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The rain made everything look different.",
+        "response": "Where did it rain, and what changes did it cause?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The mountain was shrouded in mist.",
+        "response": "Which mountain, and how did the mist affect visibility?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The singer performed with great energy.",
+        "response": "Who was the singer, and what song did they perform?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The beach was filled with people.",
+        "response": "Which beach, and why were so many people there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The library was quiet and peaceful.",
+        "response": "Which library, and what kind of books were there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The food was delicious and well-prepared.",
+        "response": "What food, and who prepared it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The conversation was getting heated.",
+        "response": "What was the conversation about, and why did it get heated?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The bird flew into the open window.",
+        "response": "What kind of bird, and why did it fly in?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The garden was full of blooming flowers.",
+        "response": "Which garden, and what types of flowers?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The computer crashed while working on the project.",
+        "response": "Which computer, and what project were you working on?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest ocean on Earth?",
+        "response": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water?",
+        "response": "The boiling point of water is 100°C (212°F) at sea level."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote 'The Great Gatsby'?",
+        "response": "F. Scott Fitzgerald wrote 'The Great Gatsby.'"
+    },
+    {
+        "label": "clear",
+        "prompt": "What animal is known for its black and white stripes?",
+        "response": "The zebra is known for its black and white stripes."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the hardest natural substance on Earth?",
+        "response": "The hardest natural substance on Earth is diamond."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the author of '1984'?",
+        "response": "George Orwell is the author of '1984.'"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the distance between the Earth and the Moon?",
+        "response": "The average distance between the Earth and the Moon is about 384,400 km."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest land animal?",
+        "response": "The largest land animal is the African elephant."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the speed of light in a vacuum?",
+        "response": "The speed of light in a vacuum is approximately 299,792 km/s."
+    },
+    {
+        "label": "clear",
+        "prompt": "What type of energy is stored in food?",
+        "response": "The type of energy stored in food is chemical energy."
+    },
+
+    
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The old painting was displayed in the museum.",
+        "response": "Which painting was it, and why was it significant?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The festival attracted people from all around.",
+        "response": "What festival, and what kind of activities were there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lecture was well-received by the students.",
+        "response": "Who gave the lecture, and what was it about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The detective solved the case after many challenges.",
+        "response": "Which case, and what challenges did the detective face?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The car broke down unexpectedly.",
+        "response": "What kind of car, and where did it break down?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The mountain peak was covered in snow.",
+        "response": "Which mountain was it, and what time of year?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The software update caused some issues.",
+        "response": "What software, and what kind of issues occurred?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The tree in the garden was very tall.",
+        "response": "What type of tree, and how tall was it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play was performed with a lot of energy.",
+        "response": "Which play, and who were the actors?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The party was filled with music and laughter.",
+        "response": "What kind of music, and who was at the party?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of France?",
+        "response": "The capital of France is Paris."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted the Mona Lisa?",
+        "response": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the square root of 16?",
+        "response": "The square root of 16 is 4."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many moons does Jupiter have?",
+        "response": "Jupiter has 79 known moons."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for calculating the area of a circle?",
+        "response": "The formula is A = πr^2."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the name of the largest planet in our solar system?",
+        "response": "The largest planet is Jupiter."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the process of photosynthesis?",
+        "response": "Photosynthesis is the process by which green plants make their food using sunlight, water, and carbon dioxide."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered America?",
+        "response": "Christopher Columbus is credited with discovering America in 1492."
+    },
+    {
+        "label": "clear",
+        "prompt": "What element does 'O' represent on the periodic table?",
+        "response": "The element 'O' represents oxygen."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Titanic sink?",
+        "response": "The Titanic sank in 1912."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book was full of unexpected twists.",
+        "response": "Which book, and what were the twists?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The sunset painted the sky with colors.",
+        "response": "Where was the sunset, and what colors did it paint?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The cat jumped onto the roof.",
+        "response": "What type of cat, and why did it jump onto the roof?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The garden was lush and full of life.",
+        "response": "What garden, and what plants were there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The answer was surprising to everyone.",
+        "response": "What was the question, and why was the answer surprising?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The report outlined key findings.",
+        "response": "Which report, and what findings were included?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The painting had an unusual style.",
+        "response": "Which painting, and what was unusual about its style?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The cake tasted sweet and fluffy.",
+        "response": "What kind of cake, and what ingredients made it fluffy?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The concert was unforgettable.",
+        "response": "Which concert, and what made it unforgettable?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The technology was ahead of its time.",
+        "response": "What technology, and what features were ahead of its time?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Japan?",
+        "response": "The capital of Japan is Tokyo."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there?",
+        "response": "There are seven continents."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest mountain in the world?",
+        "response": "Mount Everest is the tallest mountain in the world."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote 'To Kill a Mockingbird'?",
+        "response": "Harper Lee wrote 'To Kill a Mockingbird.'"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest desert in the world?",
+        "response": "The largest desert in the world is the Sahara."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical formula for table salt?",
+        "response": "The chemical formula for table salt is NaCl."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is known as the 'Father of Computers'?",
+        "response": "Charles Babbage is known as the 'Father of Computers.'"
+    },
+    {
+        "label": "clear",
+        "prompt": "What type of animal is a dolphin?",
+        "response": "A dolphin is a mammal."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in guacamole?",
+        "response": "The main ingredient in guacamole is avocado."
+    },
+    {
+        "label": "clear",
+        "prompt": "What do you call a group of lions?",
+        "response": "A group of lions is called a pride."
+    },
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The movie left the audience speechless.",
+        "response": "What movie was it, and what made it so impactful?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The storm was unexpected and fierce.",
+        "response": "Where did the storm occur, and when?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The old man told a story that captivated everyone.",
+        "response": "What story did he tell, and why was it captivating?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The song was a hit among the listeners.",
+        "response": "Which song was it, and what made it a hit?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The garden was full of vibrant colors.",
+        "response": "What kind of garden, and what colors were present?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new model was released last month.",
+        "response": "Which model, and what improvements did it have?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The mountain trail was challenging but rewarding.",
+        "response": "Which mountain, and what made it rewarding?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play had a mysterious ending.",
+        "response": "What play was it, and what made the ending mysterious?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book was filled with ancient myths.",
+        "response": "What book, and what myths were included?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The fish in the tank moved gracefully.",
+        "response": "What kind of fish, and how did they move?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for gold?",
+        "response": "The chemical symbol for gold is Au."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Canada?",
+        "response": "The capital of Canada is Ottawa."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote '1984'?",
+        "response": "George Orwell wrote '1984.'"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest mammal in the world?",
+        "response": "The largest mammal in the world is the blue whale."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many bones are in the adult human body?",
+        "response": "The adult human body has 206 bones."
+    },
+    {
+        "label": "clear",
+        "prompt": "What does 'HTML' stand for?",
+        "response": "HTML stands for HyperText Markup Language."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the process by which plants make food?",
+        "response": "Plants make food through the process of photosynthesis."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the telephone?",
+        "response": "Alexander Graham Bell invented the telephone."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest building in the world?",
+        "response": "The tallest building in the world is the Burj Khalifa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did World War II end?",
+        "response": "World War II ended in 1945."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The party was full of laughter and music.",
+        "response": "What party, and what kind of music was played?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The recipe was simple but delicious.",
+        "response": "Which recipe, and what made it delicious?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The robot performed tasks with precision.",
+        "response": "What kind of tasks, and how did the robot perform them?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The scientist made a groundbreaking discovery.",
+        "response": "Who was the scientist, and what was the discovery?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The photo captured a beautiful moment.",
+        "response": "What moment, and who was in the photo?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The child was playing in the yard.",
+        "response": "What game was the child playing, and who was with them?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The sunset was breathtakingly beautiful.",
+        "response": "Where did the sunset happen, and what made it breathtaking?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lecture was difficult to follow.",
+        "response": "Who gave the lecture, and what made it difficult to follow?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The cake had an unusual flavor.",
+        "response": "What flavor, and what made it unusual?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The park was busy with people.",
+        "response": "What park, and what kind of activities were happening?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest ocean on Earth?",
+        "response": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the most spoken language in the world?",
+        "response": "The most spoken language in the world is English."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many players are on a soccer team?",
+        "response": "A soccer team has 11 players."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the primary ingredient in bread?",
+        "response": "The primary ingredient in bread is flour."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted 'Starry Night'?",
+        "response": "Vincent van Gogh painted 'Starry Night.'"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest animal in the world?",
+        "response": "The tallest animal in the world is the giraffe."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the first man land on the moon?",
+        "response": "The first man landed on the moon in 1969."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many elements are in the periodic table?",
+        "response": "There are currently 118 elements in the periodic table."
+    },
+    {
+        "label": "clear",
+        "prompt": "What type of animal is a penguin?",
+        "response": "A penguin is a bird."
+    },
+    {
+        "label": "clear",
+        "prompt": "What are the three states of matter?",
+        "response": "The three states of matter are solid, liquid, and gas."
+    },
+
+
+
+
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The movie had a twist that changed everything.",
+        "response": "Which movie, and what was the twist?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The conference was attended by renowned experts.",
+        "response": "What conference, and who were the experts?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The building was designed with innovative techniques.",
+        "response": "What building, and what techniques were used?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The music filled the room with energy.",
+        "response": "What kind of music, and what gave it energy?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The invention was ahead of its time.",
+        "response": "What was the invention, and what made it ahead of its time?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The night sky was illuminated with stars.",
+        "response": "Where did this occur, and what made it special?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The meal was both spicy and sweet.",
+        "response": "What dish was it, and what ingredients contributed to the flavors?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The artist created a masterpiece that amazed critics.",
+        "response": "Who was the artist, and what was the masterpiece?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The forest was dense and full of life.",
+        "response": "Which forest, and what kind of life was present?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book kept readers on the edge of their seats.",
+        "response": "Which book, and what made it so engaging?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of France?",
+        "response": "The capital of France is Paris."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the author of 'Pride and Prejudice'?",
+        "response": "The author of 'Pride and Prejudice' is Jane Austen."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there?",
+        "response": "There are seven continents."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in guacamole?",
+        "response": "The main ingredient in guacamole is avocado."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Titanic sink?",
+        "response": "The Titanic sank in 1912."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for water?",
+        "response": "The formula for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered penicillin?",
+        "response": "Penicillin was discovered by Alexander Fleming."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many bones are in the adult human body?",
+        "response": "The adult human body has 206 bones."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the currency of Japan?",
+        "response": "The currency of Japan is the Japanese yen."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted the 'Mona Lisa'?",
+        "response": "The 'Mona Lisa' was painted by Leonardo da Vinci."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lecture was full of insights and practical examples.",
+        "response": "Who gave the lecture, and what were the examples?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The car had an impressive acceleration.",
+        "response": "What car, and what made its acceleration impressive?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The team celebrated after their victory.",
+        "response": "Which team, and what victory was it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The museum was filled with ancient artifacts.",
+        "response": "Which museum, and what artifacts were there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book was a blend of mystery and romance.",
+        "response": "What book, and how did it combine these genres?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The conference featured cutting-edge research.",
+        "response": "What research, and who presented it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The building's design was admired by many.",
+        "response": "Which building, and what aspects were admired?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The hike was challenging but worth it.",
+        "response": "Where did the hike take place, and what made it worthwhile?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The painting showed an unexpected scene.",
+        "response": "What painting, and what was unexpected about it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The restaurant was known for its creative dishes.",
+        "response": "What restaurant, and what kind of dishes?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for water?",
+        "response": "The chemical symbol for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital city of Australia?",
+        "response": "The capital city of Australia is Canberra."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is known as the father of modern physics?",
+        "response": "Albert Einstein is known as the father of modern physics."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many sides does a hexagon have?",
+        "response": "A hexagon has six sides."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Berlin Wall fall?",
+        "response": "The Berlin Wall fell in 1989."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest mountain in the world?",
+        "response": "The tallest mountain in the world is Mount Everest."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Italy?",
+        "response": "The capital of Italy is Rome."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is credited with inventing the first practical telephone?",
+        "response": "Alexander Graham Bell is credited with inventing the first practical telephone."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the square root of 64?",
+        "response": "The square root of 64 is 8."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the national animal of Australia?",
+        "response": "The national animal of Australia is the kangaroo."
+    },
+
+
+
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The storm brought unexpected consequences.",
+        "response": "What storm, and what were the consequences?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The singer's voice captivated the audience.",
+        "response": "Who was the singer, and what was unique about their voice?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The painting was filled with contrasting colors.",
+        "response": "What painting, and what were the contrasting colors?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play was performed with incredible emotion.",
+        "response": "What play, and which emotions were conveyed?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The building was admired for its architectural elegance.",
+        "response": "What building, and what made it architecturally elegant?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The workshop had valuable insights for everyone.",
+        "response": "What workshop, and what insights were shared?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The chef's new dish was a hit among food critics.",
+        "response": "What dish, and what made it special?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The performance was breathtaking and well-rehearsed.",
+        "response": "What performance, and what aspects were breathtaking?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The story had a twist that no one expected.",
+        "response": "What story, and what was the twist?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The project required a lot of creative thinking.",
+        "response": "What project, and what kind of creative thinking was needed?"
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote '1984'?",
+        "response": "George Orwell wrote '1984'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for calculating the area of a circle?",
+        "response": "The formula is πr^2."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted 'The Starry Night'?",
+        "response": "Vincent van Gogh painted 'The Starry Night'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient of a Caesar salad?",
+        "response": "The main ingredient is romaine lettuce."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many planets are in our solar system?",
+        "response": "There are eight planets in our solar system."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Canada?",
+        "response": "The capital of Canada is Ottawa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest mammal in the world?",
+        "response": "The largest mammal in the world is the blue whale."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is known as the 'Father of Computers'?",
+        "response": "Charles Babbage is known as the 'Father of Computers'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What element has the atomic number 79?",
+        "response": "The element with the atomic number 79 is gold."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Brazil?",
+        "response": "The capital of Brazil is Brasília."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The sunset was mesmerizing and full of color.",
+        "response": "Where did this sunset happen, and what colors were present?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The show featured a mix of comedy and drama.",
+        "response": "What show, and how was the comedy and drama blended?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The novel was an emotional rollercoaster.",
+        "response": "What novel, and what emotions were involved?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The machine had a modern and sleek design.",
+        "response": "What machine, and what made its design modern?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The animal was known for its distinctive call.",
+        "response": "What animal, and what was distinctive about its call?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The holiday was celebrated with enthusiasm.",
+        "response": "What holiday, and what made it so special?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The forest was filled with mysterious sounds.",
+        "response": "What forest, and what kind of sounds were heard?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The art piece was intriguing and thought-provoking.",
+        "response": "What art piece, and why was it thought-provoking?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The actor's performance was intense and unforgettable.",
+        "response": "What actor, and what made the performance intense?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The event was filled with music and laughter.",
+        "response": "What event, and what kind of music and laughter?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Spain?",
+        "response": "The capital of Spain is Madrid."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the light bulb?",
+        "response": "Thomas Edison invented the light bulb."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many states are in the United States?",
+        "response": "There are 50 states in the United States."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the currency of the United Kingdom?",
+        "response": "The currency of the United Kingdom is the British pound."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered gravity?",
+        "response": "Sir Isaac Newton discovered gravity."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for the area of a triangle?",
+        "response": "The formula is 1/2 × base × height."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted 'The Last Supper'?",
+        "response": "Leonardo da Vinci painted 'The Last Supper'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical formula for methane?",
+        "response": "The chemical formula for methane is CH4."
+    },
+    {
+        "label": "clear",
+        "prompt": "How long does it take for the Earth to orbit the Sun?",
+        "response": "It takes approximately 365.25 days for the Earth to orbit the Sun."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest building in the world?",
+        "response": "The tallest building in the world is the Burj Khalifa."
+    },
+
+
+
+
+
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The ceremony was filled with speeches and presentations.",
+        "response": "What ceremony, and what were the speeches about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The student displayed an impressive understanding of the topic.",
+        "response": "Which student, and which topic was understood?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The garden had a variety of plants and flowers.",
+        "response": "What garden, and what types of plants and flowers were present?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The professor’s lecture was captivating.",
+        "response": "Who is the professor, and what made the lecture captivating?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The game was full of action and excitement.",
+        "response": "What game, and what actions made it exciting?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book's plot had unexpected twists.",
+        "response": "What book, and what were the twists in the plot?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The crowd cheered as the musician played.",
+        "response": "Who was the musician, and what song did they play?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The documentary was eye-opening and informative.",
+        "response": "What documentary, and what made it eye-opening?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The artwork used unique techniques.",
+        "response": "What artwork, and what techniques were used?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The coach praised the team's strategy.",
+        "response": "Which team, and what strategy was praised?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for water?",
+        "response": "The chemical symbol for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the highest mountain in the world?",
+        "response": "The highest mountain in the world is Mount Everest."
+    },
+    {
+        "label": "clear",
+        "prompt": "What language do people speak in Brazil?",
+        "response": "The official language of Brazil is Portuguese."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote 'To Kill a Mockingbird'?",
+        "response": "Harper Lee wrote 'To Kill a Mockingbird'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Titanic sink?",
+        "response": "The Titanic sank in 1912."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in guacamole?",
+        "response": "The main ingredient in guacamole is avocado."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the CEO of Tesla?",
+        "response": "Elon Musk is the CEO of Tesla."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there?",
+        "response": "There are seven continents."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital city of Italy?",
+        "response": "The capital city of Italy is Rome."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the most spoken language in the world?",
+        "response": "The most spoken language in the world is English."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The evening sky was painted with hues of orange and pink.",
+        "response": "Where was the sky observed, and what did it look like?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The meeting went over budget and was postponed.",
+        "response": "Which meeting, and what was the reason for the postponement?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The artist’s new exhibit is receiving rave reviews.",
+        "response": "Who is the artist, and what is special about the exhibit?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The team managed to overcome their challenges.",
+        "response": "Which team, and what challenges were overcome?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The research uncovered surprising results.",
+        "response": "What research, and what were the surprising results?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The competition attracted participants from all over the world.",
+        "response": "What competition, and who were the participants?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The singer’s voice was powerful and moving.",
+        "response": "Who is the singer, and what made their voice moving?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The film captured the essence of the era.",
+        "response": "What film, and what era was captured?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The restaurant is famous for its unique dishes.",
+        "response": "What restaurant, and what are the unique dishes?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new software update has several useful features.",
+        "response": "What software, and what features were added?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What planet is known as the 'Red Planet'?",
+        "response": "Mars is known as the 'Red Planet'."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered penicillin?",
+        "response": "Alexander Fleming discovered penicillin."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for calculating speed?",
+        "response": "The formula for speed is distance/time."
+    },
+    {
+        "label": "clear",
+        "prompt": "Which element is represented by the symbol 'O'?",
+        "response": "The element represented by the symbol 'O' is oxygen."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main source of energy for the Earth?",
+        "response": "The main source of energy for the Earth is the Sun."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the author of 'Pride and Prejudice'?",
+        "response": "Jane Austen is the author of 'Pride and Prejudice'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water?",
+        "response": "The boiling point of water is 100°C at standard atmospheric pressure."
+    },
+    {
+        "label": "clear",
+        "prompt": "Which organ in the human body pumps blood?",
+        "response": "The heart pumps blood in the human body."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many days are in a leap year?",
+        "response": "There are 366 days in a leap year."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of France?",
+        "response": "The capital of France is Paris."
+    },
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The project was completed ahead of schedule.",
+        "response": "What project, and what was the schedule?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The company's profits soared during the quarter.",
+        "response": "Which company, and what factors contributed to the profits?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lake was surrounded by lush vegetation.",
+        "response": "Which lake, and what type of vegetation was present?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play was a huge success.",
+        "response": "What play, and why was it a success?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The workshop provided useful insights.",
+        "response": "What workshop, and what insights were provided?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The weather changed dramatically over the weekend.",
+        "response": "Where did the weather change, and how did it change?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The seminar attracted a diverse audience.",
+        "response": "What seminar, and who were the attendees?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The ancient ruins were found near the river.",
+        "response": "What ruins, and where exactly were they found?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The novel had an unexpected ending.",
+        "response": "What novel, and what made the ending unexpected?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The man entered the room with a confident stride.",
+        "response": "Who was the man, and what was the purpose of his entrance?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the currency used in Japan?",
+        "response": "The currency used in Japan is the Japanese yen (JPY)."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted the Mona Lisa?",
+        "response": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the speed of light in a vacuum?",
+        "response": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did World War II end?",
+        "response": "World War II ended in 1945."
+    },
+    {
+        "label": "clear",
+        "prompt": "What element has the atomic number 79?",
+        "response": "The element with the atomic number 79 is gold (Au)."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital city of Canada?",
+        "response": "The capital city of Canada is Ottawa."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the telephone?",
+        "response": "Alexander Graham Bell invented the telephone."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main gas found in Earth's atmosphere?",
+        "response": "The main gas in Earth's atmosphere is nitrogen (N2)."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest ocean on Earth?",
+        "response": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Australia?",
+        "response": "The capital of Australia is Canberra."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The room was filled with an aura of anticipation.",
+        "response": "What room, and what were people anticipating?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The speaker’s words resonated with the audience.",
+        "response": "Who was the speaker, and what message resonated with the audience?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The island was a paradise for nature lovers.",
+        "response": "Which island, and what made it a paradise for nature lovers?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book was filled with historical references.",
+        "response": "What book, and what historical events were referenced?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The actor’s performance was praised by critics.",
+        "response": "Which actor, and which performance was praised?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The restaurant offered a variety of cuisines.",
+        "response": "What restaurant, and what types of cuisines were offered?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lecture was highly informative and engaging.",
+        "response": "What was the topic of the lecture, and why was it engaging?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The movie was set in a dystopian future.",
+        "response": "What movie, and what made the future dystopian?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The mountain hike was more challenging than expected.",
+        "response": "Which mountain, and what challenges were faced?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The company launched a new product.",
+        "response": "Which company, and what product was launched?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical formula for carbon dioxide?",
+        "response": "The chemical formula for carbon dioxide is CO2."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many planets are in our solar system?",
+        "response": "There are eight planets in our solar system."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the most common element in the universe?",
+        "response": "The most common element in the universe is hydrogen."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered the law of gravity?",
+        "response": "Sir Isaac Newton discovered the law of gravity."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the freezing point of water?",
+        "response": "The freezing point of water is 0°C or 32°F."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is known as the 'Father of Computers'?",
+        "response": "Charles Babbage is known as the 'Father of Computers'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest building in the world?",
+        "response": "The tallest building in the world is the Burj Khalifa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the first moon landing occur?",
+        "response": "The first moon landing occurred in 1969."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for the area of a circle?",
+        "response": "The formula for the area of a circle is πr^2."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in bread?",
+        "response": "The main ingredient in bread is flour."
+    },    
+
+
+    
+
+
+
+
+    {
+        "label": "unclear",
+        "prompt": "The garden was full of vibrant colors.",
+        "response": "Which garden, and what colors were there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The team celebrated their victory in style.",
+        "response": "Which team, and how did they celebrate?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The city was known for its unique architecture.",
+        "response": "Which city, and what made the architecture unique?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The day was marked by unexpected events.",
+        "response": "What day, and what events were unexpected?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The ceremony was attended by important guests.",
+        "response": "What ceremony, and who were the important guests?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The scientist made a groundbreaking discovery.",
+        "response": "Which scientist, and what discovery was made?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lecture included surprising facts.",
+        "response": "What lecture, and what were the surprising facts?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The artwork was admired by art enthusiasts.",
+        "response": "What artwork, and why was it admired?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The market was bustling with activity.",
+        "response": "What market, and what activities were taking place?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book was a page-turner.",
+        "response": "What book, and why was it engaging?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of France?",
+        "response": "The capital of France is Paris."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water?",
+        "response": "The boiling point of water is 100°C or 212°F."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote 'Pride and Prejudice'?",
+        "response": "Jane Austen wrote 'Pride and Prejudice'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the distance between Earth and the Sun?",
+        "response": "The average distance between Earth and the Sun is approximately 149.6 million kilometers (93 million miles)."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest planet in our solar system?",
+        "response": "The largest planet in our solar system is Jupiter."
+    },
+    {
+        "label": "clear",
+        "prompt": "What language is spoken in Brazil?",
+        "response": "The primary language spoken in Brazil is Portuguese."
+    },
+    {
+        "label": "clear",
+        "prompt": "What does DNA stand for?",
+        "response": "DNA stands for Deoxyribonucleic Acid."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest mountain in the world?",
+        "response": "The tallest mountain in the world is Mount Everest."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Titanic sink?",
+        "response": "The Titanic sank in 1912."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the symbol for gold on the periodic table?",
+        "response": "The symbol for gold is Au."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The machine produced an impressive output.",
+        "response": "What machine, and what output was produced?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The animal moved quickly through the forest.",
+        "response": "What animal, and why did it move quickly?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The project was a collaborative effort.",
+        "response": "Which project, and who participated in the collaboration?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The story had a mysterious twist.",
+        "response": "What story, and what was the twist?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The singer's voice was mesmerizing.",
+        "response": "Who was the singer, and what made the voice mesmerizing?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The research yielded surprising results.",
+        "response": "What research, and what were the surprising results?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The festival attracted visitors from all over.",
+        "response": "What festival, and who were the visitors?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The mountain range stretched as far as the eye could see.",
+        "response": "Which mountain range, and what made it so impressive?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The city was known for its historic buildings.",
+        "response": "Which city, and what buildings were historic?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The research team presented their findings at the conference.",
+        "response": "Which research team, and what findings were presented?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in chocolate?",
+        "response": "The main ingredient in chocolate is cocoa."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered penicillin?",
+        "response": "Alexander Fleming discovered penicillin."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the atomic number of hydrogen?",
+        "response": "The atomic number of hydrogen is 1."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Berlin Wall fall?",
+        "response": "The Berlin Wall fell in 1989."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Spain?",
+        "response": "The capital of Spain is Madrid."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the speed of sound?",
+        "response": "The speed of sound is approximately 343 meters per second in air at sea level."
+    },
+    {
+        "label": "clear",
+        "prompt": "What element has the symbol 'O'?",
+        "response": "The element with the symbol 'O' is oxygen."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest statue in the world?",
+        "response": "The tallest statue in the world is the Statue of Unity in India."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for water?",
+        "response": "The formula for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted 'Starry Night'?",
+        "response": "Vincent van Gogh painted 'Starry Night'."
+    },
+    
+    
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The restaurant had a long line outside.",
+        "response": "Which restaurant, and what made the line so long?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The boat drifted across the lake.",
+        "response": "What boat, and where was it drifting?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new technology promised exciting changes.",
+        "response": "What technology, and what kind of changes were promised?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The students worked on their projects late into the night.",
+        "response": "Which students, and what projects were they working on?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The exhibit featured historical artifacts.",
+        "response": "What exhibit, and what artifacts were featured?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The news story focused on an important event.",
+        "response": "What news story, and what was the important event?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The chef prepared a special dish for the guests.",
+        "response": "Which chef, and what dish did they prepare?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The painting was displayed in a prestigious gallery.",
+        "response": "What painting, and which gallery was it displayed in?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The conversation was full of interesting points.",
+        "response": "What conversation, and what points were interesting?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play had a surprising ending.",
+        "response": "What play, and what was the surprising ending?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water at sea level?",
+        "response": "The boiling point of water at sea level is 100°C or 212°F."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the square root of 81?",
+        "response": "The square root of 81 is 9."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the author of 'To Kill a Mockingbird'?",
+        "response": "Harper Lee is the author of 'To Kill a Mockingbird'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest ocean on Earth?",
+        "response": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the American Declaration of Independence get signed?",
+        "response": "The American Declaration of Independence was signed in 1776."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical formula for methane?",
+        "response": "The chemical formula for methane is CH4."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the speed of light?",
+        "response": "The speed of light is approximately 299,792 kilometers per second (186,282 miles per second)."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted 'The Last Supper'?",
+        "response": "Leonardo da Vinci painted 'The Last Supper'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the currency of Japan?",
+        "response": "The currency of Japan is the Japanese yen (JPY)."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Australia?",
+        "response": "The capital of Australia is Canberra."
+    },
+    {
+        "label": "clear",
+        "prompt": "What animal is known as the 'King of the Jungle'?",
+        "response": "The lion is known as the 'King of the Jungle'."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The team was ready for the challenge.",
+        "response": "Which team, and what challenge were they preparing for?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The experiment showed unexpected results.",
+        "response": "What experiment, and what results were unexpected?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The artist's work was admired by many.",
+        "response": "Which artist, and what kind of work did they create?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The island was famous for its wildlife.",
+        "response": "Which island, and what kind of wildlife was it known for?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The discovery changed the way we understand science.",
+        "response": "What discovery, and how did it change our understanding of science?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The novel was both tragic and uplifting.",
+        "response": "Which novel, and what elements were tragic and uplifting?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The game had a competitive edge.",
+        "response": "What game, and what made it competitive?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The poem was full of deep meanings.",
+        "response": "Which poem, and what were the deep meanings?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The mountain was covered in snow.",
+        "response": "Which mountain, and how deep was the snow?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The music resonated with everyone in the room.",
+        "response": "What music, and what made it resonate with people?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Italy?",
+        "response": "The capital of Italy is Rome."
+    },
+    {
+        "label": "clear",
+        "prompt": "What does 'AI' stand for?",
+        "response": "'AI' stands for Artificial Intelligence."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there?",
+        "response": "There are seven continents."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for silver?",
+        "response": "The chemical symbol for silver is Ag."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for calculating the area of a circle?",
+        "response": "The formula for calculating the area of a circle is πr²."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the hardest natural substance on Earth?",
+        "response": "The hardest natural substance on Earth is diamond."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did World War II end?",
+        "response": "World War II ended in 1945."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the telephone?",
+        "response": "Alexander Graham Bell invented the telephone."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest building in the world?",
+        "response": "The tallest building in the world is the Burj Khalifa in Dubai."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the most common gas in Earth's atmosphere?",
+        "response": "The most common gas in Earth's atmosphere is nitrogen."
+    }, 
+
+
+
+
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The car had a strange noise coming from the engine.",
+        "response": "What car, and what type of noise was it making?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book was filled with unexpected twists.",
+        "response": "What book, and what kind of twists were there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The storm hit the coast with full force.",
+        "response": "Which coast, and what kind of storm was it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The hike was more challenging than expected.",
+        "response": "What hike, and what made it so challenging?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The team celebrated their victory in style.",
+        "response": "Which team, and how did they celebrate?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The scientist's findings were revolutionary.",
+        "response": "Which scientist, and what were the findings about?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new app made waves in the tech community.",
+        "response": "What app, and why did it make waves?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The garden was in full bloom.",
+        "response": "Which garden, and what flowers were blooming?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play had some funny and touching scenes.",
+        "response": "Which play, and which scenes were funny or touching?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The building had a unique architecture.",
+        "response": "Which building, and what made its architecture unique?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the freezing point of water?",
+        "response": "The freezing point of water is 0°C or 32°F."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the current president of the United States?",
+        "response": "The current president of the United States is Joe Biden."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the square of 12?",
+        "response": "The square of 12 is 144."
+    },
+    {
+        "label": "clear",
+        "prompt": "What does 'DNA' stand for?",
+        "response": "'DNA' stands for Deoxyribonucleic Acid."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the longest river in the world?",
+        "response": "The longest river in the world is the Nile River."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote 'Pride and Prejudice'?",
+        "response": "Jane Austen wrote 'Pride and Prejudice'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the distance between the Earth and the Sun?",
+        "response": "The average distance between the Earth and the Sun is approximately 149.6 million kilometers (93 million miles)."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest planet in our solar system?",
+        "response": "The largest planet in our solar system is Jupiter."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital city of Canada?",
+        "response": "The capital city of Canada is Ottawa."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many bones are in the adult human body?",
+        "response": "There are 206 bones in the adult human body."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lecture was full of intriguing points.",
+        "response": "Which lecture, and what were the intriguing points?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The hike led to a breathtaking view.",
+        "response": "What hike, and what did the view look like?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The concert had a mix of genres.",
+        "response": "Which concert, and what genres were mixed?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The painting was admired for its details.",
+        "response": "Which painting, and what details were admired?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The documentary revealed surprising facts.",
+        "response": "Which documentary, and what surprising facts did it reveal?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The cat climbed the tree with ease.",
+        "response": "Which cat, and how did it climb the tree?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The party was lively and filled with laughter.",
+        "response": "Which party, and what made it so lively?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The journey was filled with unexpected encounters.",
+        "response": "What journey, and what kind of encounters?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The city's streets were alive with activity.",
+        "response": "Which city, and what kind of activity was taking place?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The workshop provided useful insights.",
+        "response": "Which workshop, and what insights did it provide?"
+    },
+    {
+        "label": "clear",
+        "prompt": "Who was the first president of the United States?",
+        "response": "George Washington was the first president of the United States."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Brazil?",
+        "response": "The capital of Brazil is Brasília."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the atomic number of gold?",
+        "response": "The atomic number of gold is 79."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there on Earth?",
+        "response": "There are seven continents on Earth."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the primary ingredient in guacamole?",
+        "response": "The primary ingredient in guacamole is avocado."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the light bulb?",
+        "response": "Thomas Edison is credited with inventing the light bulb."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the currency of the United Kingdom?",
+        "response": "The currency of the United Kingdom is the British pound (GBP)."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the process by which plants make their food?",
+        "response": "The process by which plants make their food is called photosynthesis."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did man first land on the moon?",
+        "response": "Man first landed on the moon in 1969."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the most common element in the Earth's atmosphere?",
+        "response": "The most common element in the Earth's atmosphere is nitrogen."
+    },
+    
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The chef prepared the dish with special ingredients.",
+        "response": "What dish, and what were the special ingredients?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The movie had several plot twists.",
+        "response": "Which movie, and what were the plot twists?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The professor's lecture on quantum physics was enlightening.",
+        "response": "Which professor, and what part of the lecture was enlightening?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The musician's performance captivated the audience.",
+        "response": "Which musician, and what part of the performance captivated the audience?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new policy was controversial and sparked debates.",
+        "response": "What policy, and what kind of debates did it spark?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The cat had an unusual reaction to the sound.",
+        "response": "What cat, and what was the sound?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new technology was innovative and efficient.",
+        "response": "What technology, and what makes it innovative?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The scientist conducted an experiment to test the hypothesis.",
+        "response": "Which scientist, and what hypothesis was being tested?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The hike through the forest was filled with sights to see.",
+        "response": "What forest, and what sights were there?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The history of the ancient civilization is fascinating.",
+        "response": "Which civilization, and what part of its history is fascinating?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital city of France?",
+        "response": "The capital city of France is Paris."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many elements are in the periodic table?",
+        "response": "There are 118 elements in the periodic table."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted the Mona Lisa?",
+        "response": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year was the Declaration of Independence signed?",
+        "response": "The Declaration of Independence was signed in 1776."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water at sea level?",
+        "response": "The boiling point of water at sea level is 100°C or 212°F."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for gold?",
+        "response": "The chemical symbol for gold is Au."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is the author of '1984'?",
+        "response": "George Orwell is the author of '1984'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the square root of 144?",
+        "response": "The square root of 144 is 12."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the longest river in Asia?",
+        "response": "The longest river in Asia is the Yangtze River."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there on Earth?",
+        "response": "There are seven continents on Earth."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The forest was dense and full of life.",
+        "response": "Which forest, and what kind of life was present?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The city was buzzing with activity.",
+        "response": "Which city, and what kind of activity was taking place?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new book has a captivating story.",
+        "response": "What book, and what part of the story is captivating?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The student made impressive progress on the project.",
+        "response": "Which student, and what project was being worked on?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The concert was memorable for its unique setlist.",
+        "response": "Which concert, and what songs were in the setlist?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The scientist's discovery changed the field.",
+        "response": "Which scientist, and what was the discovery?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The museum displayed artifacts from an ancient civilization.",
+        "response": "Which museum, and which civilization's artifacts were displayed?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The movie had a stunning visual style.",
+        "response": "Which movie, and what was unique about its visual style?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The artist used a variety of techniques in their painting.",
+        "response": "Which artist, and what techniques did they use?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lecture was full of complex concepts.",
+        "response": "Which lecture, and what concepts were discussed?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital city of Japan?",
+        "response": "The capital city of Japan is Tokyo."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical formula for water?",
+        "response": "The chemical formula for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many planets are in the solar system?",
+        "response": "There are eight planets in the solar system."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the process by which plants make their own food?",
+        "response": "The process is called photosynthesis."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest mountain in the world?",
+        "response": "The tallest mountain in the world is Mount Everest."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the national bird of the United States?",
+        "response": "The national bird of the United States is the Bald Eagle."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who discovered penicillin?",
+        "response": "Alexander Fleming discovered penicillin."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in bread?",
+        "response": "The main ingredient in bread is flour."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many players are there in a football team?",
+        "response": "There are 11 players in a football team."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest animal on Earth?",
+        "response": "The largest animal on Earth is the blue whale."
+    },
+
+
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The team celebrated their victory with enthusiasm.",
+        "response": "Which team, and what event did they win?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The software update added several new features.",
+        "response": "Which software, and what new features were added?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The garden was in full bloom, attracting bees and butterflies.",
+        "response": "Which garden, and what flowers were in bloom?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The chef prepared a dish that was both spicy and sweet.",
+        "response": "What dish, and what ingredients made it spicy and sweet?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The debate was intense and full of diverse opinions.",
+        "response": "Which debate, and what were the diverse opinions?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The artist's latest painting has a profound message.",
+        "response": "Which artist, and what message is in the painting?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The mountain trail was both challenging and rewarding.",
+        "response": "Which mountain, and what made it challenging?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The book's plot twists kept the readers on edge.",
+        "response": "Which book, and what were the main plot twists?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new movie had special effects that amazed everyone.",
+        "response": "Which movie, and what special effects stood out?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The lecture covered advanced topics in machine learning.",
+        "response": "Which lecture, and what advanced topics were discussed?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the freezing point of water?",
+        "response": "The freezing point of water is 0°C or 32°F."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many bones are there in the adult human body?",
+        "response": "There are 206 bones in the adult human body."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main language spoken in Brazil?",
+        "response": "The main language spoken in Brazil is Portuguese."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who invented the telephone?",
+        "response": "Alexander Graham Bell invented the telephone."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the atomic number of carbon?",
+        "response": "The atomic number of carbon is 6."
+    },
+    {
+        "label": "clear",
+        "prompt": "What does the acronym 'NASA' stand for?",
+        "response": "NASA stands for the National Aeronautics and Space Administration."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the Titanic sink?",
+        "response": "The Titanic sank in 1912."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Canada?",
+        "response": "The capital of Canada is Ottawa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest desert in the world?",
+        "response": "The largest desert in the world is the Sahara Desert."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the smallest prime number?",
+        "response": "The smallest prime number is 2."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The city's skyline was stunning at sunset.",
+        "response": "Which city, and what made the skyline stunning?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The scientist's breakthrough was unexpected.",
+        "response": "Which scientist, and what was the breakthrough?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The mountain had an unusual formation.",
+        "response": "Which mountain, and what made the formation unusual?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The news article highlighted a recent achievement.",
+        "response": "Which news article, and what was the achievement?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The conference had speakers from around the world.",
+        "response": "Which conference, and who were the speakers?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new project will bring significant changes.",
+        "response": "What project, and what changes are expected?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The tour guide explained the history of the monument.",
+        "response": "Which tour guide, and which monument?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The scientist's theory was complex and debated.",
+        "response": "Which scientist, and what theory was debated?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The performance was praised for its choreography.",
+        "response": "Which performance, and what choreography was praised?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The painting was displayed in a popular gallery.",
+        "response": "Which painting, and which gallery?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the chemical symbol for iron?",
+        "response": "The chemical symbol for iron is Fe."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the speed of light in a vacuum?",
+        "response": "The speed of light in a vacuum is approximately 299,792,458 meters per second."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Australia?",
+        "response": "The capital of Australia is Canberra."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many hearts does an octopus have?",
+        "response": "An octopus has three hearts."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the tallest building in the world?",
+        "response": "The tallest building in the world is the Burj Khalifa."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the name of the first manned mission to land on the Moon?",
+        "response": "The name of the first manned mission to land on the Moon is Apollo 11."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did World War II end?",
+        "response": "World War II ended in 1945."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the primary gas in Earth's atmosphere?",
+        "response": "The primary gas in Earth's atmosphere is nitrogen."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who wrote 'Pride and Prejudice'?",
+        "response": "Jane Austen wrote 'Pride and Prejudice'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the second planet from the Sun?",
+        "response": "The second planet from the Sun is Venus."
+    }, 
+
+
+
+
+
+    
+    {
+        "label": "unclear",
+        "prompt": "The storm's impact was felt throughout the region.",
+        "response": "Which storm, and what was the impact?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The novel's plot was filled with unexpected turns.",
+        "response": "Which novel, and what were the unexpected turns?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The museum displayed ancient artifacts that fascinated visitors.",
+        "response": "Which museum, and what artifacts were displayed?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The concert was a highlight of the year.",
+        "response": "Which concert, and what made it a highlight?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The school hosted a talent show that brought everyone together.",
+        "response": "Which school, and what talent was showcased?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The experiment yielded surprising results.",
+        "response": "What experiment, and what were the surprising results?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The weather was perfect for a day at the park.",
+        "response": "Which park, and what made the weather perfect?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The business expansion was a significant milestone.",
+        "response": "Which business, and what milestone was achieved?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The play was acclaimed for its powerful performances.",
+        "response": "Which play, and who were the performers?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The discovery was a turning point in scientific research.",
+        "response": "What discovery, and how was it a turning point?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for water?",
+        "response": "The formula for water is H2O."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of Japan?",
+        "response": "The capital of Japan is Tokyo."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who painted the Mona Lisa?",
+        "response": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many continents are there on Earth?",
+        "response": "There are seven continents on Earth."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the largest mammal in the world?",
+        "response": "The largest mammal in the world is the blue whale."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year did the first man land on the Moon?",
+        "response": "The first man landed on the Moon in 1969."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water?",
+        "response": "The boiling point of water is 100°C or 212°F."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many players are there in a soccer team?",
+        "response": "There are 11 players in a soccer team."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the main ingredient in guacamole?",
+        "response": "The main ingredient in guacamole is avocado."
+    },
+    {
+        "label": "clear",
+        "prompt": "What element has the atomic number 79?",
+        "response": "The element with the atomic number 79 is gold (Au)."
+    },
+    {
+        "label": "unclear",
+        "prompt": "The road trip was an adventure for everyone involved.",
+        "response": "Which road trip, and what made it an adventure?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The debate about climate change continues to spark discussions.",
+        "response": "Which debate, and what specific points are discussed?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The new software improved productivity in the office.",
+        "response": "Which software, and how did it improve productivity?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The musician's latest album is filled with powerful lyrics.",
+        "response": "Which musician, and what lyrics were powerful?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The project was praised for its innovation and execution.",
+        "response": "Which project, and what was innovative about it?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The speaker captivated the audience with their storytelling.",
+        "response": "Which speaker, and what story was told?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The novel was adapted into a movie with great success.",
+        "response": "Which novel, and what was the movie's title?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The animal shelter welcomed new volunteers for the weekend.",
+        "response": "Which shelter, and who were the new volunteers?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The recipe for the dish was shared by the chef online.",
+        "response": "Which recipe, and who was the chef?"
+    },
+    {
+        "label": "unclear",
+        "prompt": "The dance performance was a highlight of the evening.",
+        "response": "Which dance performance, and what made it special?"
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the capital of France?",
+        "response": "The capital of France is Paris."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the formula for calculating the area of a circle?",
+        "response": "The formula for the area of a circle is πr²."
+    },
+    {
+        "label": "clear",
+        "prompt": "What are the three states of matter?",
+        "response": "The three states of matter are solid, liquid, and gas."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the currency of the United Kingdom?",
+        "response": "The currency of the United Kingdom is the British pound sterling."
+    },
+    {
+        "label": "clear",
+        "prompt": "Who is known as the 'Father of Computers'?",
+        "response": "Charles Babbage is known as the 'Father of Computers'."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the boiling point of water at sea level?",
+        "response": "The boiling point of water at sea level is 100°C or 212°F."
+    },
+    {
+        "label": "clear",
+        "prompt": "How many planets are in our solar system?",
+        "response": "There are eight planets in our solar system."
+    },
+    {
+        "label": "clear",
+        "prompt": "What is the most common gas in Earth's atmosphere?",
+        "response": "The most common gas in Earth's atmosphere is nitrogen."
+    },
+    {
+        "label": "clear",
+        "prompt": "What year was the Declaration of Independence signed?",
+        "response": "The Declaration of Independence was signed in 1776."
+    },
+    {
+        "label": "clear",
+        "prompt": "What does 'HTTP' stand for?",
+        "response": "'HTTP' stands for Hypertext Transfer Protocol."
+    }
+]
+
+
+
+
