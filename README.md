@@ -18,4 +18,17 @@ The goal of this project is to enhance GPT models with the ability to ask clarif
 ## Code
 1. In [gpt-1_training.ipynb](./code/gpt-1_training.ipynb) you can find code for training of gpt-1 from scratch.
 1. In [gpt-neo_conversational.ipynb](./code/gpt-neo_conversational.ipynb) you can find code of finetuning of gpt-neo on conversational dataset ("Anthropic_HH_Golden" - with about 10000 examples) - 6 epochs. Weights of the model are here: https://drive.google.com/file/d/1MWM8_AMmPwngpE5_F_5gNvDh0lqbLGks/view?usp=sharing
-2. In [gpt-neo_clarification_finetuning.ipynb](./code/gpt-neo_clarification_finetuning.ipynb) you can find code of finetuning of already finetuned model on dataset with unclear question. Weights of the finetuned model are here: https://drive.google.com/file/d/1AuYDz0VsbhjAc2BIqN6NvhJNz-WtSc8l/view?usp=sharing
+2. In [gpt-neo_clarification_finetuning.ipynb](./code/gpt-neo_clarification_finetuning.ipynb) you can find code of finetuning (on prompt+clarification dataset) of already finetuned model on dataset with unclear question. Weights of the finetuned model are here: https://drive.google.com/file/d/1AuYDz0VsbhjAc2BIqN6NvhJNz-WtSc8l/view?usp=sharing
+
+## Some results:
+1. gpt-1 text generation:
+   ![image](https://github.com/user-attachments/assets/f9a2e7ff-885b-4d72-bf52-682c452a0dec)
+
+   As we see there is already somehow a good result, decpite the lack of training resources.
+2. gpt-neo generation after finetuning:
+   **input** = "prompt: The man walked into the room and started speaking.";
+   **generation** = "prompt: The man walked into the room and started speaking.\nlabel: unclear\nresponse: Was the speaking part related to the man walking into the room?"
+
+   **input** = "prompt: The man walked into the room and started speaking.";
+   **generation** = "prompt: How many hours are in a day?\nlabel: clear\nresponse:There are 24 hours in a day."
+   
