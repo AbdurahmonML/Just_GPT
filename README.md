@@ -12,7 +12,8 @@ The goal of this project is to enhance GPT models with the ability to ask clarif
 ## Dataset
 1. **Wikipedia dataset**: A large set of text data from Wikipedia articles was used for initial training of the GPT-1 model.
 2. **Dialogue dataset**: I took dataset called "Anthropic HH (Harmless and Helpful) Golden" from hugging face
-3. **User prompt+clarification dataset**: Using prompt engineering I built my own dataset for fine-tuning GPT-neo, a dataset containing examples of user prompts that are unclear or ambiguous, along with appropriate clarification questions, was used. It looks like this: label:..., prompt:..., response:...
+3. **User prompt+clarification dataset**: Using prompt engineering, I built a custom dataset for fine-tuning GPT-Neo. The dataset contains examples of unclear or ambiguous user prompts paired with appropriate clarification questions. It is structured with fields like label, prompt, and response. [dataset](./dataset.json)
+
 
 ## Code
 1. In **gpt_finetuning1.ipynb** you can find code of finetuning of gpt-neo on conversational dataset ("Anthropic_HH_Golden" - with about 10000 examples). Weights of the model is here: https://drive.google.com/file/d/1MWM8_AMmPwngpE5_F_5gNvDh0lqbLGks/view?usp=sharing
