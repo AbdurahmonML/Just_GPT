@@ -25,7 +25,7 @@ The goal of this project is to enhance GPT models with the ability to ask clarif
    ![image](https://github.com/user-attachments/assets/f9a2e7ff-885b-4d72-bf52-682c452a0dec)
 
    As we see there is already somehow a good result, decpite the lack of training resources.
-2. **GPT-Neo Generation After Fine-Tuning**:
+2. **GPT-Neo Generation after fine-tuning**:
 
    **Input**:  
    `prompt: The man walked into the room and started speaking.`  
