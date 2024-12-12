@@ -25,10 +25,16 @@ The goal of this project is to enhance GPT models with the ability to ask clarif
    ![image](https://github.com/user-attachments/assets/f9a2e7ff-885b-4d72-bf52-682c452a0dec)
 
    As we see there is already somehow a good result, decpite the lack of training resources.
-2. gpt-neo generation after finetuning:
-   **input** = "prompt: The man walked into the room and started speaking.";
-   **generation** = "prompt: The man walked into the room and started speaking.\nlabel: unclear\nresponse: Was the speaking part related to the man walking into the room?"
+2. **GPT-Neo Generation After Fine-Tuning**:
 
-   **input** = "prompt: The man walked into the room and started speaking.";
-   **generation** = "prompt: How many hours are in a day?\nlabel: clear\nresponse:There are 24 hours in a day."
+   **Input**:  
+   `prompt: The man walked into the room and started speaking.`  
+   **Generation**:  
+   `prompt: The man walked into the room and started speaking.\nlabel: unclear\nresponse: Was the speaking part related to the man walking into the room?`  
+
+   **Input**:  
+   `prompt: How many hours are in a day?`  
+   **Generation**:  
+   `prompt: How many hours are in a day?\nlabel: clear\nresponse: There are 24 hours in a day.`  
+
    
