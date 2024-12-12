@@ -3,7 +3,7 @@
 ## Project Overview
 The goal of this project is to enhance GPT models with the ability to ask clarification questions when faced with ambiguous or unclear user prompts. Instead of generating incorrect or nonsensical responses, the model will identify when it doesn't fully understand the query and ask the user for clarification. This improves the reliability and quality of responses, especially for complex or unclear inputs.
 
-## what I have done:
+## What I have done:
 1. **Training GPT-1 from scratch**: Initially trained GPT-1 on a Wikipedia dataset with num_layers = 6.
 2. **Finetuned gpt-neo 1.3b**: Fine-tuned on a conversational dataset (from Hugging Face) to learn how to interact with humans. It was then fine-tuned on a dataset containing both ambiguous and normal prompts, with examples of correct responses and guidance on how to ask clarification questions when faced with ambiguity.
 3. **Self-refinement** - Iteratively improves responses by self-review, NLI evaluation, and refinement for enhanced coherence and quality.
