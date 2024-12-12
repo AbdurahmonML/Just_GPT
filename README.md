@@ -37,4 +37,5 @@ The goal of this project is to enhance GPT models with the ability to ask clarif
    **Generation**:  
    `prompt: How many hours are in a day?\nlabel: clear\nresponse: There are 24 hours in a day.`  
 
+   As we can see model even identifies if the prompt is clear or not, which is pretty good! Moreover, under the hood is running self refinement!
    
