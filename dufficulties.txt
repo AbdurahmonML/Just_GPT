@@ -1,0 +1,13 @@
+There are number of difficulties I had while solving this project:
+
+1) Taking advantage of LoRA in terms of time and memory and using it correctly.
+
+2) I had a problem with saving the model's weights. For example, after saving the model and loading it back, I couldn't achieve the same decreased loss that I had after training; i.e., the loss was as if it was not fine-tuned at all.
+
+3) I had a problem with memory while fine-tuning the model on a dialogue dataset. It means that I had too large of a sequence length (number of tokens in one sequence). I didn't notice at once that the problem was here. I was playing with batch size,
+LoRA's hyperparameters, and other parameters but eventually found the real problem. I had set the maximum length of tokens to 600, but I made sure that everything would finish with the bot's reply, not somewhere else or in the middle of a sentence.
+
+4) I read some articles on how my own dataset for clarification questions should look. I understood that it should not just be text without marking where the human and the bot are, but it should be properly marked!!!
+
+
+
